@@ -700,4 +700,12 @@ footer > p{
     width: 72%;
 }*/
 
+@media screen and (max-width: 450px){
+    .container form{
+        height: 70vh;
+    }
+    .fa-paper-plane{
+        padding: 17px;
+    }
+}
 
